@@ -27,9 +27,14 @@ harder to trust.
 
 ## What we commit to
 
-**Every repository here is public and carries an explicit licence.** A research
-namespace that publishes work nobody may legally reuse claims an openness it
-does not deliver.
+**Every repository here carries an explicit licence, and becomes public when the
+work it supports is published.** A research namespace that publishes work nobody
+may legally reuse claims an openness it does not deliver.
+
+Work in progress stays private until the paper it belongs to is out — a preprint
+competes with itself if the analysis circulates before it. Today that means
+[`dlvt`](https://github.com/sapians-research/dlvt) is public under MIT; the other
+two repositories are licensed and private, and open at publication.
 
 **Every repository states how to cite it**, as a BibTeX block in its README.
 
